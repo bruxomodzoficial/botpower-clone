@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px;
+}
+
+.perfil-card, .item-card {
+  border: 1px solid #333;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
